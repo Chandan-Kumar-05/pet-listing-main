@@ -17,7 +17,7 @@ This project is a React-based web application for pet-listing. It allows users t
 ## Setup and Running the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/pet-Detail-main.git
+git clone https://github.com/Chandan-Kumar-05/pet-listing-main.git
 cd pet-Detail-main
 
 2. Install dependencies:
@@ -92,7 +92,6 @@ The application integrates with a pet Detail API (http://pets-v2.dev-apis.com) f
 - Add favorites functionality for users to save pets they're interested in.
 - Enhance the search functionality with more filters and sorting options.
 - Implement real-time updates for pet availability.
-
 
 
 
